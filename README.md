@@ -20,7 +20,7 @@ Each unit was designed to monitor specific data in real time:
 
 🎥 Watch the system in action:
 
-https://github.com/user-attachments/assets/f5e0d46f-fde6-4d39-a7e1-b16c98d52d11
+[![Watch the Demo](https://img.youtube.com/vi/t-OQEr6PFD8/0.jpg)](https://www.youtube.com/watch?v=t-OQEr6PFD8)
 
 🌐 [Live Dashboard](https://injury-monitoring.vercel.app/)
 
