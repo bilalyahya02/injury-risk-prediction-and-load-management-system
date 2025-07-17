@@ -10,9 +10,9 @@ Each unit was designed to monitor specific data in real time:
 
 <table>
   <tr>
-    <td align="center"><strong>Arm Unit</strong><br>Heart Rate + SpO₂<br><img src="https://github.com/user-attachments/assets/ee3b4cc5-a15c-43cf-8fcd-6d5e749bad97" width="400"/></td>
-    <td align="center"><strong>Back Unit</strong><br>GPS Location<br><img src="https://github.com/user-attachments/assets/3c17d2b2-0551-4cdd-a901-c008cbe05614" width="400"/></td>
-    <td align="center"><strong>Leg Unit</strong><br>Acceleration + Muscle Temp<br><img src="https://github.com/user-attachments/assets/96eee1e9-b106-4657-be2e-c218168348f6" width="400"/></td>
+    <td align="center"><strong>Arm Unit</strong><br>Heart Rate + SpO₂<br><img src="./assets/arm.jpg"width="400"/></td>
+    <td align="center"><strong>Back Unit</strong><br>GPS Location<br><img src="./assets/back.jpg"width="400"/></td>
+    <td align="center"><strong>Leg Unit</strong><br>Acceleration + Muscle Temp<br><img src="./assets/leg.jpg"width="400"/></td>
   </tr>
 </table>
 
